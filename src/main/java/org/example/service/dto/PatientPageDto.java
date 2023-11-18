@@ -3,7 +3,6 @@ package org.example.service.dto;
 import java.util.List;
 import java.util.Objects;
 
-import org.example.model.Patient;
 public record PatientPageDto(
     List<PatientDto> patients,
     int page,

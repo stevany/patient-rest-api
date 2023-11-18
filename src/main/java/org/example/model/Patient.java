@@ -1,7 +1,6 @@
 package org.example.model;
 
 import java.time.LocalDateTime;
-import java.util.Date;
 import java.util.List;
 import java.util.Objects;
 import javax.persistence.Column;

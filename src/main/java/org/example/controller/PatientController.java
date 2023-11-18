@@ -1,6 +1,5 @@
 package org.example.controller;
 
-import org.example.model.Patient;
 import org.example.service.PatientService;
 import org.example.service.dto.PatientDto;
 import org.example.service.dto.PatientPageDto;
